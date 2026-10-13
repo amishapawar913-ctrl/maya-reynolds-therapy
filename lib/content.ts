@@ -22,8 +22,8 @@ export const hero = {
   subtext:
     "Warm, collaborative therapy for adults who feel overwhelmed by anxiety, stress, or the lingering effects of past experiences.",
   cta: { label: "Get in touch", href: "#contact" },
-  imageLeft: { src: "/images/hero-left.jpg", alt: "Calm coastal scene at dusk" },
-  imageRight: { src: "/images/hero-right.jpg", alt: "Soft ocean waves" },
+  imageLeft: { src: "/images/hero-left.jpg", alt: "Sunset over a quiet beach with soft foam on the sand" },
+  imageRight: { src: "/images/hero-right.jpg", alt: "Turquoise ocean waves rolling onto the shore" },
 };
 
 export const intro = {
@@ -34,7 +34,7 @@ export const intro = {
     "I'm a licensed clinical psychologist in Santa Monica, California, working with adults who feel overwhelmed by anxiety, stress, or the lingering effects of past experiences. Many of the people I see are high-achieving, thoughtful and self-aware, yet quietly struggle with constant worry, tension in the body, or difficulty sleeping.",
   rightBody:
     "Sessions are structured enough to feel supportive, while leaving space for reflection and depth. I bring together evidence-based methods such as CBT, EMDR, mindfulness-based practices and body-oriented techniques, so you can understand both the emotional and the physical sides of what you're experiencing.",
-  image: { src: "/images/intro-tall.jpg", alt: "Quiet shoreline in soft light" },
+  image: { src: "/images/intro-tall.jpg", alt: "Palm shadow across sand and a gentle wave" },
 };
 
 export const whoIHelp = {
@@ -44,17 +44,17 @@ export const whoIHelp = {
     {
       title: "Adults living with anxiety",
       text: "Constant worry, tension in the body, trouble sleeping, or a sense that you're always bracing for something to go wrong can wear you down. Together we look at what keeps the pattern going and build ways to feel calmer.",
-      image: { src: "/images/who-1.jpg", alt: "Window light on a quiet morning" },
+      image: { src: "/images/who-1.jpg", alt: "Woman in a gray hoodie resting her arms on a sofa and gazing out of a bright window" },
     },
     {
       title: "Adults healing from trauma",
       text: "Whether you're carrying a single difficult event or long-standing patterns from childhood, relationships or chronic stress, I pace the work carefully, with safety and stabilization at the center.",
-      image: { src: "/images/who-2.jpg", alt: "Calm path through nature" },
+      image: { src: "/images/who-2.jpg", alt: "Woman seated in a counseling session with her hands raised to her mouth" },
     },
     {
       title: "Professionals and creatives",
       text: "Entrepreneurs, creatives and professionals often feel disconnected from themselves after years of pushing through stress. Therapy can be a place to slow down, reconnect and find a more sustainable way to work and live.",
-      image: { src: "/images/who-3.jpg", alt: "Open notebook and a cup of tea" },
+      image: { src: "/images/who-3.jpg", alt: "Woman holding her head at a cluttered desk with a laptop and papers" },
     },
   ],
 };
@@ -62,7 +62,7 @@ export const whoIHelp = {
 export const banner = {
   first: "Therapy works best when you feel respected, understood, and actively involved.",
   italic: "My goal is not just symptom relief, but insight, resilience, and a stronger relationship with yourself.",
-  image: { src: "/images/banner.jpg", alt: "Wide ocean horizon at dusk" },
+  image: { src: "/images/banner.jpg", alt: "Calm ocean under a blue dusk sky" },
 };
 
 export const expertise = {
@@ -101,7 +101,7 @@ export const quotePhoto = {
   before: "Slow down, reconnect",
   script: "&",
   after: "develop more sustainable ways of living and working.",
-  image: { src: "/images/quote-photo.jpg", alt: "Quiet beach at sunset" },
+  image: { src: "/images/quote-photo.jpg", alt: "Beach chairs and a basket at sunset" },
 };
 
 export const specialties = {
@@ -127,7 +127,7 @@ export const specialties = {
     text: "Tell me what you're going through, and we can work out whether therapy with me is a good fit.",
     link: { label: "Get in touch", href: "#contact" },
   },
-  learnMore: { label: "Learn more", href: "#about" },
+  learnMore: { label: "Read the FAQs", href: "#faqs" },
 };
 
 export const office = {
@@ -143,7 +143,7 @@ export const office = {
     { label: "Sessions", value: "In person, or secure telehealth for clients located in California" },
     { label: "The space", value: "Quiet, private and uncluttered, with natural light" },
   ],
-  
+  // 2 or 3 photos from Dr. Reynolds' profile (add a third entry with /images/office-3.jpg if you have one)
   images: [
     { src: "/images/office-1.jpg", alt: "Sunlit therapy office with a gray sofa, glass coffee table and tall brick-framed windows with sheer curtains" },
     { src: "/images/office-2.jpg", alt: "Therapy room with a gray sofa, leather armchair, olive tree and built-in bookshelf" },
@@ -187,8 +187,8 @@ export const schedule = {
   scriptWord: "you",
   body: "Reaching out is a first step. Tell me what you're going through, and we can see whether working together feels right.",
   cta: { label: "Contact me", href: "#contact" },
-  imageSliver: { src: "/images/schedule-left.jpg", alt: "Warm light on sand" },
-  imageMain: { src: "/images/schedule-right.jpg", alt: "Quiet coastal view at golden hour" },
+  imageSliver: { src: "/images/schedule-left.jpg", alt: "Close-up of warm sand" },
+  imageMain: { src: "/images/schedule-right.jpg", alt: "Mug of tea and books on a window sill" },
 };
 
 export const footer = {

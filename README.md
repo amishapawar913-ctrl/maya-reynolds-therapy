@@ -2,7 +2,7 @@
 
 Homepage clone and redesign built for the Grow My Therapy front-end internship assignment (Stage 2). The layout follows the Conejo Valley Family Counseling homepage. The colors, copy and images are new, based on the profile of Dr. Maya Reynolds, a fictional therapist in Santa Monica, CA.
 
-**Live site:** PASTE-YOUR-VERCEL-LINK
+**Live site:** maya-reynolds-therapy-liart.vercel.app
 **Video walkthrough:** PASTE-YOUR-LOOM-LINK
 
 ## Tech
